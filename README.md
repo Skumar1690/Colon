@@ -1,2 +1,2 @@
 # Colon
-This is my html and css learnig when i was a beginner
+This is my html and css projec when i was a beginner
