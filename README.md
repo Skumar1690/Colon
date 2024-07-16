@@ -21,7 +21,7 @@ This project is a basic clone of Netflix, created for educational purposes to pr
 ## Technologies Used
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling the application.
-- **JavaScript**: For adding interactive elements.
+
 
 - ## Installation
 1. Clone the repository:
