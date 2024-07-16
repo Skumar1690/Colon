@@ -26,7 +26,7 @@ This project is a basic clone of Netflix, created for educational purposes to pr
 - ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/basic-netflix-clone.git
+    git clone (https://github.com/Skumar1690/Colon)
     ```
 2. Navigate to the project directory:
     ```bash
